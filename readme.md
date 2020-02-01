@@ -1,3 +1,6 @@
+![stable](https://img.shields.io/badge/build-stable-green) ![zubair1024](https://img.shields.io/badge/author-zubair1024-cyan)
+
+
 # Gist Puller 😸
 
 A little program that will pull all public gists for a GITHUB user.

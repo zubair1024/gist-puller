@@ -9,7 +9,9 @@ A little program that will pull all public gists for a GITHUB user.
 
 Change the username on the `index.js` file:
 
-`const username = 'zubair1024' \\change this to the GITHUB username you're insterested in`
+``` js
+const username = 'zubair1024' //change this to the GITHUB username you're insterested in
+```
 
 Voila! All publicly accessible gists should be downloaded in the `outputFiles` directory
 
@@ -17,15 +19,15 @@ Voila! All publicly accessible gists should be downloaded in the `outputFiles` d
 
 Just install the dependencies
 
-```
-npm i //or yarn
+``` console
+npm i
 ```
 
 ## Running
 
 Once you have put in the username you prefer. Just run using the node env
 
-```
+``` console 
 node index.js
 ```
 
